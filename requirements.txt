@@ -1,4 +1,4 @@
 streamlit
 youtube-transcript-api
-google-cloud-translate
-google-api-python-client
+deep-translator
+
